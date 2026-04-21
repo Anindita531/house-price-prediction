@@ -82,3 +82,47 @@ The dataset contains real estate property details such as:
 - Resale: Yes
 
 ### Output:
+Predicted Price: 40.47 Lacs
+
+
+---
+
+## 🚀 How to Run This Project
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/house-price-prediction.git
+cd house-price-prediction
+### 2. Install Dependencies
+pip install -r requirements.txt
+###3. Run Jupyter Notebook
+jupyter notebook
+
+Open:
+house_price_prediction.ipynb
+```
+### 📈 Key Insights
+Square footage is the most important feature
+Location significantly affects price
+Model performs better on structured numerical data
+Slight overfitting observed (Train > Test R²)
+### 🔥 Future Improvements
+Improve model accuracy (target 0.80+ R²)
+Add feature importance visualization
+Handle location using clustering (KMeans)
+Deploy model using Streamlit / Flask
+Add interactive web UI for predictions
+### 🧠 Learning Outcomes
+End-to-end ML pipeline creation
+Data preprocessing and feature engineering
+Regression modeling techniques
+Model evaluation and debugging
+Real-world dataset handling
+```
+### 👨‍💻 Author
+
+Anindita Ghosh
+
+GitHub: https://github.com/your-username
+
+
