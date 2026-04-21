@@ -95,7 +95,7 @@ git clone https://github.com/Anindita531/house-price-prediction.git
 cd house-price-prediction
 ### 2. Install Dependencies
 pip install -r requirements.txt
-###3. Run Jupyter Notebook
+### 3. Run Jupyter Notebook
 jupyter notebook
 
 Open:
