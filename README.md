@@ -90,8 +90,8 @@ Predicted Price: 40.47 Lacs
 ## 🚀 How to Run This Project
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/house-price-prediction.git
+bash
+git clone https://github.com/Anindita531/house-price-prediction.git
 cd house-price-prediction
 ### 2. Install Dependencies
 pip install -r requirements.txt
@@ -100,7 +100,7 @@ jupyter notebook
 
 Open:
 house_price_prediction.ipynb
-```
+
 ### 📈 Key Insights
 Square footage is the most important feature
 Location significantly affects price
@@ -123,6 +123,6 @@ Real-world dataset handling
 
 Anindita Ghosh
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Anindita531
 
 
